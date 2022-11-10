@@ -63,6 +63,30 @@ const songs = [
         "url": "https://firebasestorage.googleapis.com/v0/b/musicapp-nnk.appspot.com/o/songs%2Fy2mate.com%20-%20Vietsub%20Th%E1%BB%A7y%20Tri%E1%BB%81u%20remix%20%20Ph%C3%B3%20M%E1%BB%99ng%20%C4%90%E1%BB%93ng%20%20%E6%BD%AE%E6%B1%90%20DJ%20%20%20%E5%82%85%E6%A2%A6%E5%BD%A4_320kbps.mp3?alt=media&token=9ed14179-37f3-4800-a16a-9eb7e112a930",
         "category": "1"
     },
+    {
+        "id": "9",
+        "title": "Lofi Acoustic",
+        "artist": "Tất Cả Nghệ Sĩ",
+        "artwork": "http://img.youtube.com/vi/PhoxHtER6jU/sddefault.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/musicapp-nnk.appspot.com/o/songs%2Fy2mate.com%20-%20Nh%E1%BB%AFng%20B%C3%A0i%20H%C3%A1t%20Lofi%20Acoustic%20Ti%E1%BA%BFng%20Anh%20C%E1%BB%B1c%20Chill%20Hay%20Nh%E1%BA%A5t%20%20Nh%E1%BA%A1c%20Lofi%20Chill%20Tik%20Tok%20Nh%E1%BA%B9%20Nh%C3%A0ng%20_320kbps.mp3?alt=media&token=1f36ccd1-fa08-4d87-b722-c028634811ff",
+        "category": "1"
+    },
+    {
+        "id": "10",
+        "title": "Em Hát Ai Nghe",
+        "artist": "Violin",
+        "artwork": "http://img.youtube.com/vi/SftV13acfjs/sddefault.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/musicapp-nnk.appspot.com/o/songs%2Fy2mate.com%20-%20Em%20H%C3%A1t%20Ai%20Nghe%20%20VD%20%202Ao%20Muzic%20%20Nh%C6%B0ng%20t%C3%B4i%20cho%20nhi%E1%BB%81u%20violin%20h%C6%A1n%20%20XoX%20Music_320kbps.mp3?alt=media&token=f1f8c5a7-3483-40d9-840e-2b76c112861e",
+        "category": "1"
+    },
+    {
+        "id": "11",
+        "title": "Không Có Em Anh Vẫn Còn Mặt Trời",
+        "artist": "黄霄云",
+        "artwork": "http://img.youtube.com/vi/5pO-Rrkw0Mc/sddefault.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/musicapp-nnk.appspot.com/o/songs%2Fy2mate.com%20-%20Rearranged%20%E6%B2%A1%E4%BA%86%E6%88%91%E4%BD%A0%E4%BE%9D%E7%84%B6%E6%8B%A5%E6%9C%89%E5%A4%AA%E9%98%B3%20l%20Kh%C3%B4ng%20C%C3%B3%20Em%20Anh%20V%E1%BA%ABn%20C%C3%B2n%20M%E1%BA%B7t%20Tr%E1%BB%9Di%20%20Ho%C3%A0ng%20Ti%C3%AAu%20V%C3%A2n%20l%20%E9%BB%84%E9%9C%84%E4%BA%91%20Ghost%20Huang_320kbps.mp3?alt=media&token=89362986-392f-4278-8b51-567bc15bb2ba",
+        "category": "1"
+    },
 ]
 
 const $ = document.querySelector.bind(document)
